@@ -1,0 +1,28 @@
+# IDE
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+
+# Kotlin
+.kotlin/
+*.kotlin_module
+
+# Android
+local.properties
+captures/
+.cxx/
+.externalNativeBuild/
+*.apk
+*.aab
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local environment
+.env
+.env.*
+!.env.example
